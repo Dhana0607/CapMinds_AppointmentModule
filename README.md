@@ -18,4 +18,4 @@ A simple and responsive appointment scheduling web app with a calendar interface
 Just open `index.html` in your browser.
 
 ## 🌐 Live Demo
-Deployed on Vercel
+Deployed on Vercel: cap-minds-appointment-module.vercel.app
